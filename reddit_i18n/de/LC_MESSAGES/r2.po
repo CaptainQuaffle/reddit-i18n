@@ -2695,7 +2695,7 @@ msgstr "[gelöscht]"
 #: r2/templates/comment.html:107 r2/templates/comment.htmllite:46
 #: r2/templates/commentvisitsbox.html:38 r2/templates/useriphistory.html:49
 msgid "ago"
-msgstr "von"
+msgstr "her"
 
 #: r2/templates/comment.html:116
 msgid "child"
